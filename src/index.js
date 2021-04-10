@@ -1,4 +1,4 @@
 import './css/style.css';
-import './js/Math';
+import './js/MathChar';
 import './js/Daemon';
-import './js/Magian';
+import './js/Magician';
